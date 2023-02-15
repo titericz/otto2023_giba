@@ -4,7 +4,7 @@
 
 ## Factorization Machine, predicts next click.
 
-This repo is part of team G.B.D.T. solution.
+This repo is part of team G.B.D.T. #3 place solution. `https://www.kaggle.com/competitions/otto-recommender-system/leaderboard`
 
 ## Run notebooks in this order:
 
