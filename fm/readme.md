@@ -1,5 +1,5 @@
 Factorization Machine, predicts next click.
 
-run in this order:
-- data_preparation.ipynb
-- fm_seq2seq.ipynb
+run notebooks in this order:
+- preprocess_data.ipynb - read competition data and convert to multiple parquet files
+- fm-seq2seq.ipynb - train a FM model using last 10 items + hour. Write embeddings table to disk.
