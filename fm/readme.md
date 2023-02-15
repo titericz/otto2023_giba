@@ -1,6 +1,6 @@
-## Factorization Machine, predicts next click.
+# Factorization Machine, predicts next click.
 
-# Run notebooks in this order:
+## Run notebooks in this order:
 
 1) `preprocess_data.ipynb`: read competition data and convert to multiple parquet files
 
